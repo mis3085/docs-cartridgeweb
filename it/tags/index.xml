@@ -10,31 +10,11 @@
     <atom:link href="https://mis3085.github.io/docs-cartridgeweb/it/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Acquisizione</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/acquisizione/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/acquisizione/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Alternativa OEM</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/alternativa-oem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/alternativa-oem/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ambiente</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ambiente/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/ambiente/</guid>
       <description></description>
       
     </item>
@@ -60,31 +40,11 @@
     </item>
     
     <item>
-      <title>Assicurazione Qualità</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/assicurazione-qualit%C3%A0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/assicurazione-qualit%C3%A0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Brother</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/brother/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/brother/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/business/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/business/</guid>
       <description></description>
       
     </item>
@@ -120,6 +80,26 @@
     </item>
     
     <item>
+      <title>Cartucce per Stampanti</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/cartucce-per-stampanti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/cartucce-per-stampanti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cartucce per Stampanti Laser</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/cartucce-per-stampanti-laser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/cartucce-per-stampanti-laser/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Cartucce Rigenerate</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/cartucce-rigenerate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -150,11 +130,31 @@
     </item>
     
     <item>
-      <title>Certificazione ISO</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/certificazione-iso/</link>
+      <title>Cataloghi</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/cataloghi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/certificazione-iso/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/cataloghi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Catalogo Prodotti</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/catalogo-prodotti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/catalogo-prodotti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Certificato ISO</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/certificato-iso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/certificato-iso/</guid>
       <description></description>
       
     </item>
@@ -170,26 +170,6 @@
     </item>
     
     <item>
-      <title>Commenti</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/commenti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/commenti/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Compatibile</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/compatibile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/compatibile/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Compatibile OEM</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/compatibile-oem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -200,11 +180,11 @@
     </item>
     
     <item>
-      <title>Condivisione Video</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/condivisione-video/</link>
+      <title>Compatibile OKI</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/compatibile-oki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/condivisione-video/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/compatibile-oki/</guid>
       <description></description>
       
     </item>
@@ -220,21 +200,21 @@
     </item>
     
     <item>
-      <title>Consumabili per Stampanti</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/consumabili-per-stampanti/</link>
+      <title>Conformità Normativa</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/conformit%C3%A0-normativa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/consumabili-per-stampanti/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/conformit%C3%A0-normativa/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Contatto</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/contatto/</link>
+      <title>Consumabili per Stampanti</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/consumabili-per-stampanti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/contatto/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/consumabili-per-stampanti/</guid>
       <description></description>
       
     </item>
@@ -250,21 +230,11 @@
     </item>
     
     <item>
-      <title>Cookie</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/cookie/</link>
+      <title>Dell</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/dell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/cookie/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dati Utente</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/dati-utente/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/dati-utente/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/dell/</guid>
       <description></description>
       
     </item>
@@ -290,6 +260,26 @@
     </item>
     
     <item>
+      <title>Ecocompatibile</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ecocompatibile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/ecocompatibile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ecologiche</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ecologiche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/ecologiche/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Ecologico</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ecologico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -310,16 +300,6 @@
     </item>
     
     <item>
-      <title>Efficienza Dei Costi</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/efficienza-dei-costi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/efficienza-dei-costi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Epson</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/epson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -330,51 +310,61 @@
     </item>
     
     <item>
-      <title>Equivalente OEM</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/equivalente-oem/</link>
+      <title>ESG</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/esg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/equivalente-oem/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/esg/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Europa</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/europa/</link>
+      <title>Esperienza Utente</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/esperienza-utente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/europa/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/esperienza-utente/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Evoluzione Del Marchio</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/evoluzione-del-marchio/</link>
+      <title>FAQ</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/evoluzione-del-marchio/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/faq/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Filosofia Di Gestione</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/filosofia-di-gestione/</link>
+      <title>Filosofia Gestionale</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/filosofia-gestionale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/filosofia-di-gestione/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/filosofia-gestionale/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Forniture per Aziende</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/forniture-per-aziende/</link>
+      <title>Fornitura Globale</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/fornitura-globale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/forniture-per-aziende/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/fornitura-globale/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forniture Aftermarket</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/forniture-aftermarket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/forniture-aftermarket/</guid>
       <description></description>
       
     </item>
@@ -400,11 +390,11 @@
     </item>
     
     <item>
-      <title>Forniture per Ufficio</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/forniture-per-ufficio/</link>
+      <title>Gamma Di Prodotti</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/gamma-di-prodotti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/forniture-per-ufficio/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/gamma-di-prodotti/</guid>
       <description></description>
       
     </item>
@@ -420,51 +410,11 @@
     </item>
     
     <item>
-      <title>Garanzia Di Qualità</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/garanzia-di-qualit%C3%A0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/garanzia-di-qualit%C3%A0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Globale</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/globale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/globale/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Google Tag Manager</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/google-tag-manager/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/google-tag-manager/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>GPI</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/gpi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/gpi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Guida Al Prodotto</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/guida-al-prodotto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/guida-al-prodotto/</guid>
       <description></description>
       
     </item>
@@ -480,11 +430,11 @@
     </item>
     
     <item>
-      <title>Imballaggi Sostenibili</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/imballaggi-sostenibili/</link>
+      <title>Informazioni Aziendali</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/informazioni-aziendali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/imballaggi-sostenibili/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/informazioni-aziendali/</guid>
       <description></description>
       
     </item>
@@ -495,6 +445,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/innovazione/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ISO9001</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/iso9001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/iso9001/</guid>
       <description></description>
       
     </item>
@@ -540,6 +500,16 @@
     </item>
     
     <item>
+      <title>Materiali Premium</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/materiali-premium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/materiali-premium/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Materiali Riciclati</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/materiali-riciclati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -550,11 +520,11 @@
     </item>
     
     <item>
-      <title>Misurazione Del Pubblico</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/misurazione-del-pubblico/</link>
+      <title>Miglioramento Continuo</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/miglioramento-continuo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/misurazione-del-pubblico/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/miglioramento-continuo/</guid>
       <description></description>
       
     </item>
@@ -570,11 +540,21 @@
     </item>
     
     <item>
-      <title>OKI</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/oki/</link>
+      <title>Navigazione</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/navigazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/oki/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/navigazione/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Notizie</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/notizie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/notizie/</guid>
       <description></description>
       
     </item>
@@ -590,21 +570,21 @@
     </item>
     
     <item>
-      <title>Ottimizzazione Del Sito Web</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ottimizzazione-del-sito-web/</link>
+      <title>Packaging Sostenibile</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/packaging-sostenibile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/ottimizzazione-del-sito-web/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/packaging-sostenibile/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Partnership</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/partnership/</link>
+      <title>Partnership Commerciale</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/partnership-commerciale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/partnership/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/partnership-commerciale/</guid>
       <description></description>
       
     </item>
@@ -620,21 +600,21 @@
     </item>
     
     <item>
-      <title>Politica Di Qualità</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/politica-di-qualit%C3%A0/</link>
+      <title>Politica Della Qualità</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/politica-della-qualit%C3%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/politica-di-qualit%C3%A0/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/politica-della-qualit%C3%A0/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Privacy</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/privacy/</link>
+      <title>Politica Di Qualità</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/politica-di-qualit%C3%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/privacy/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/politica-di-qualit%C3%A0/</guid>
       <description></description>
       
     </item>
@@ -650,21 +630,21 @@
     </item>
     
     <item>
-      <title>Produzione</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/produzione/</link>
+      <title>Produttore Cartucce Toner</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/produttore-cartucce-toner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/produzione/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/produttore-cartucce-toner/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Produzione a Taiwan</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/produzione-a-taiwan/</link>
+      <title>Produttore Taiwanese</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/produttore-taiwanese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/produzione-a-taiwan/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/produttore-taiwanese/</guid>
       <description></description>
       
     </item>
@@ -680,6 +660,16 @@
     </item>
     
     <item>
+      <title>Proprietà Intellettuale</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/propriet%C3%A0-intellettuale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/propriet%C3%A0-intellettuale/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Pubblicità</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/pubblicit%C3%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -690,21 +680,21 @@
     </item>
     
     <item>
-      <title>Qualità Di Stampa</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/qualit%C3%A0-di-stampa/</link>
+      <title>Qualità</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/qualit%C3%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/qualit%C3%A0-di-stampa/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/qualit%C3%A0/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>REACH</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/reach/</link>
+      <title>R&amp;S</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/rs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/reach/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/rs/</guid>
       <description></description>
       
     </item>
@@ -720,21 +710,21 @@
     </item>
     
     <item>
-      <title>Reti Sociali</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/reti-sociali/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/reti-sociali/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ricerca E Sviluppo</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ricerca-e-sviluppo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/ricerca-e-sviluppo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Riciclo Delle Risorse</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/riciclo-delle-risorse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/riciclo-delle-risorse/</guid>
       <description></description>
       
     </item>
@@ -760,31 +750,11 @@
     </item>
     
     <item>
-      <title>Rigenerate</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/rigenerate/</link>
+      <title>Risorse</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/risorse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/rigenerate/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Risparmio Sui Costi</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/risparmio-sui-costi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/risparmio-sui-costi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>RoHS</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/rohs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/rohs/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/risorse/</guid>
       <description></description>
       
     </item>
@@ -800,41 +770,21 @@
     </item>
     
     <item>
-      <title>Servizi Di Terze Parti</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/servizi-di-terze-parti/</link>
+      <title>Servizi Del Sito Web</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/servizi-del-sito-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/servizi-di-terze-parti/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/servizi-del-sito-web/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Social Network</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/social-network/</link>
+      <title>Soddisfazione Del Cliente</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/soddisfazione-del-cliente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/social-network/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Soluzioni Aziendali</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/soluzioni-aziendali/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/soluzioni-aziendali/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Soluzioni Di Stampa</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/soluzioni-di-stampa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/soluzioni-di-stampa/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/soddisfazione-del-cliente/</guid>
       <description></description>
       
     </item>
@@ -845,16 +795,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/sostenibilit%C3%A0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Stampa</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampa/</guid>
       <description></description>
       
     </item>
@@ -880,11 +820,41 @@
     </item>
     
     <item>
+      <title>Stampa Economica</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampa-economica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampa-economica/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stampa Verde</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampa-verde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampa-verde/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Stampanti Laser</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampanti-laser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampanti-laser/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stampanti Multifunzione</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampanti-multifunzione/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/stampanti-multifunzione/</guid>
       <description></description>
       
     </item>
@@ -950,21 +920,31 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/test/</link>
+      <title>Tecnologia</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/tecnologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/test/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/tecnologia/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Toner Alternativi</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-alternativi/</link>
+      <title>Test Di Prodotto</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/test-di-prodotto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-alternativi/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/test-di-prodotto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Toner Alternativo</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-alternativo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-alternativo/</guid>
       <description></description>
       
     </item>
@@ -980,21 +960,61 @@
     </item>
     
     <item>
-      <title>Utax</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/utax/</link>
+      <title>Toner Compatibile HP</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-compatibile-hp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/utax/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-compatibile-hp/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Vantaggi Tecnici</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/vantaggi-tecnici/</link>
+      <title>Toner Compatibile Samsung</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-compatibile-samsung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/vantaggi-tecnici/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-compatibile-samsung/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Toner Rigenerato</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-rigenerato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/toner-rigenerato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Uffici Globali</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/uffici-globali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/uffici-globali/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ufficio Sostenibile</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/ufficio-sostenibile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/ufficio-sostenibile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>UTAX</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/it/tags/utax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/it/tags/utax/</guid>
       <description></description>
       
     </item>

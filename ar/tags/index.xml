@@ -40,6 +40,16 @@
     </item>
     
     <item>
+      <title>Dell</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/dell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/dell/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Epson</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/epson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,11 +60,11 @@
     </item>
     
     <item>
-      <title>Google Tag Manager</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/google-tag-manager/</link>
+      <title>ESG</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/esg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/google-tag-manager/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/esg/</guid>
       <description></description>
       
     </item>
@@ -75,6 +85,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/hp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ISO9001</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/iso9001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/iso9001/</guid>
       <description></description>
       
     </item>
@@ -110,31 +130,11 @@
     </item>
     
     <item>
-      <title>OKI</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/oki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/oki/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Olivetti</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/olivetti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/olivetti/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>REACH</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/reach/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/reach/</guid>
       <description></description>
       
     </item>
@@ -150,16 +150,6 @@
     </item>
     
     <item>
-      <title>RoHS</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/rohs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/rohs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Samsung</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/samsung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,7 +160,7 @@
     </item>
     
     <item>
-      <title>Utax</title>
+      <title>UTAX</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/utax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -190,51 +180,41 @@
     </item>
     
     <item>
-      <title>أعمال</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</link>
+      <title>إعادة تدوير الموارد</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%AF%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D8%AF%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>أوروبا</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/</link>
+      <title>اختبار المنتج</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>ابتكار</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1/</link>
+      <title>الأخبار</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>اتصال</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84/</link>
+      <title>الأسئلة الشائعة</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>استدامة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9/</guid>
       <description></description>
       
     </item>
@@ -250,21 +230,11 @@
     </item>
     
     <item>
-      <title>الاختبار</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1/</link>
+      <title>الابتكار</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>الاستحواذ</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%88%D8%A7%D8%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%88%D8%A7%D8%B0/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1/</guid>
       <description></description>
       
     </item>
@@ -290,6 +260,16 @@
     </item>
     
     <item>
+      <title>الامتثال التنظيمي</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>الامتثال لحقوق الملكية الفكرية</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AB%D8%A7%D9%84-%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -310,11 +290,11 @@
     </item>
     
     <item>
-      <title>البيئة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9/</link>
+      <title>التحسين المستمر</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1/</guid>
       <description></description>
       
     </item>
@@ -330,61 +310,51 @@
     </item>
     
     <item>
-      <title>التصنيع</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9/</link>
+      <title>التكنولوجيا</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>التصنيع في تايوان</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D9%81%D9%8A-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86/</link>
+      <title>التنقل</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D8%B9-%D9%81%D9%8A-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>التعليقات</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA/</link>
+      <title>التوريد العالمي</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>الخدمات الخارجية</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9/</link>
+      <title>الجودة</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>الخراطيش المتوافقة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9/</link>
+      <title>الخرطوشات المتوافقة</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>الخصوصية</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9/</guid>
       <description></description>
       
     </item>
@@ -410,16 +380,6 @@
     </item>
     
     <item>
-      <title>الشبكات الاجتماعية</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>الشهادات</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -440,11 +400,21 @@
     </item>
     
     <item>
-      <title>الطباعة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9/</link>
+      <title>الطباعة الاقتصادية</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>الطباعة الخضراء</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1/</guid>
       <description></description>
       
     </item>
@@ -460,11 +430,11 @@
     </item>
     
     <item>
-      <title>الكوكيز</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%83%D9%88%D9%83%D9%8A%D8%B2/</link>
+      <title>الكتالوجات</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D9%84%D9%88%D8%AC%D8%A7%D8%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%83%D9%88%D9%83%D9%8A%D8%B2/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D9%84%D9%88%D8%AC%D8%A7%D8%AA/</guid>
       <description></description>
       
     </item>
@@ -490,6 +460,16 @@
     </item>
     
     <item>
+      <title>الملكية الفكرية</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%83%D8%B1%D9%8A%D8%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>المنتجات الخضراء</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -510,11 +490,11 @@
     </item>
     
     <item>
-      <title>بدائل الحبر</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1/</link>
+      <title>الموارد</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF/</guid>
       <description></description>
       
     </item>
@@ -525,16 +505,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A8%D8%AF%D9%8A%D9%84-oem/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>بيانات المستخدم</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85/</guid>
       <description></description>
       
     </item>
@@ -560,21 +530,11 @@
     </item>
     
     <item>
-      <title>تحسين الموقع</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9/</link>
+      <title>تجربة المستخدم</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>تطور العلامة التجارية</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%B7%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%B7%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85/</guid>
       <description></description>
       
     </item>
@@ -600,6 +560,16 @@
     </item>
     
     <item>
+      <title>تطوير المنتجات</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>تغليف مستدام</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D8%BA%D9%84%D9%8A%D9%81-%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -610,21 +580,31 @@
     </item>
     
     <item>
-      <title>توفير التكاليف</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81/</link>
+      <title>تونر متوافق</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D9%88%D9%86%D8%B1-%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%84%D9%8A%D9%81/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D9%88%D9%86%D8%B1-%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>جودة الطباعة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9/</link>
+      <title>تونر معاد تصنيعه</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D9%88%D9%86%D8%B1-%D9%85%D8%B9%D8%A7%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D9%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AA%D9%88%D9%86%D8%B1-%D9%85%D8%B9%D8%A7%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D9%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حبر بديل</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AD%D8%A8%D8%B1-%D8%A8%D8%AF%D9%8A%D9%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AD%D8%A8%D8%B1-%D8%A8%D8%AF%D9%8A%D9%84/</guid>
       <description></description>
       
     </item>
@@ -640,21 +620,11 @@
     </item>
     
     <item>
-      <title>حلول الأعمال</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</link>
+      <title>خدمات الموقع</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>حلول الطباعة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9/</guid>
       <description></description>
       
     </item>
@@ -670,21 +640,51 @@
     </item>
     
     <item>
-      <title>خراطيش الحبر التونر</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>خراطيش الحبر المعاد تصنيعها</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D9%87%D8%A7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D9%87%D8%A7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>خراطيش الطابعات</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>خراطيش حبر متوافقة مع HP</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%AD%D8%A8%D8%B1-%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%B9-hp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%AD%D8%A8%D8%B1-%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%B9-hp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>خراطيش حبر متوافقة مع Samsung</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%AD%D8%A8%D8%B1-%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%B9-samsung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%AD%D8%A8%D8%B1-%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82%D8%A9-%D9%85%D8%B9-samsung/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>خراطيش طابعات ليزر</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA-%D9%84%D9%8A%D8%B2%D8%B1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA-%D9%84%D9%8A%D8%B2%D8%B1/</guid>
       <description></description>
       
     </item>
@@ -730,11 +730,11 @@
     </item>
     
     <item>
-      <title>دليل المنتج</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/</link>
+      <title>رضا العملاء</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B1%D8%B6%D8%A7-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B1%D8%B6%D8%A7-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1/</guid>
       <description></description>
       
     </item>
@@ -750,21 +750,21 @@
     </item>
     
     <item>
-      <title>شراكة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9/</link>
+      <title>شراكة تجارية</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>شهادة ISO</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-iso/</link>
+      <title>شهادات</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-iso/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B4%D9%87%D8%A7%D8%AF%D8%A7%D8%AA/</guid>
       <description></description>
       
     </item>
@@ -820,21 +820,21 @@
     </item>
     
     <item>
-      <title>طباعة الأعمال</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</link>
+      <title>طابعات متعددة الوظائف</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%B8%D8%A7%D8%A6%D9%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-%D8%A7%D9%84%D9%88%D8%B8%D8%A7%D8%A6%D9%81/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>عالمي</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B9%D8%A7%D9%84%D9%85%D9%8A/</link>
+      <title>طباعة الأعمال</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B9%D8%A7%D9%84%D9%85%D9%8A/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D8%B7%D8%A8%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</guid>
       <description></description>
       
     </item>
@@ -860,41 +860,11 @@
     </item>
     
     <item>
-      <title>قياس الجمهور</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%82%D9%8A%D8%A7%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1/</link>
+      <title>كتالوج المنتجات</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%83%D8%AA%D8%A7%D9%84%D9%88%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%82%D9%8A%D8%A7%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>كفاءة التكلفة</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%83%D9%81%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%83%D9%81%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%84%D9%81%D8%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ما يعادل OEM</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%A7-%D9%8A%D8%B9%D8%A7%D8%AF%D9%84-oem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%A7-%D9%8A%D8%B9%D8%A7%D8%AF%D9%84-oem/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>متوافق</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%83%D8%AA%D8%A7%D9%84%D9%88%D8%AC-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/</guid>
       <description></description>
       
     </item>
@@ -910,31 +880,31 @@
     </item>
     
     <item>
+      <title>متوافق مع OKI</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%D8%B9-oki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%D8%B9-oki/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مجموعة المنتجات</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>مراقبة الجودة</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>مزايا تقنية</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B2%D8%A7%D9%8A%D8%A7-%D8%AA%D9%82%D9%86%D9%8A%D8%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B2%D8%A7%D9%8A%D8%A7-%D8%AA%D9%82%D9%86%D9%8A%D8%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>مستلزمات الأعمال</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</guid>
       <description></description>
       
     </item>
@@ -980,41 +950,31 @@
     </item>
     
     <item>
-      <title>مستلزمات مكتبية</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D9%85%D9%83%D8%AA%D8%A8%D9%8A%D8%A9/</link>
+      <title>مستلزمات ما بعد البيع</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D9%85%D9%83%D8%AA%D8%A8%D9%8A%D8%A9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B9/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>مستهلكات الطابعات</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA/</link>
+      <title>مصنع تايواني</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B5%D9%86%D8%B9-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86%D9%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D8%A8%D8%B9%D8%A7%D8%AA/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B5%D9%86%D8%B9-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86%D9%8A/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>مشاركة الفيديو</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/</link>
+      <title>مصنع خراطيش الحبر</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B5%D9%86%D8%B9-%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>معاد تصنيعها</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B9%D8%A7%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D9%87%D8%A7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B9%D8%A7%D8%AF-%D8%AA%D8%B5%D9%86%D9%8A%D8%B9%D9%87%D8%A7/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B5%D9%86%D8%B9-%D8%AE%D8%B1%D8%A7%D8%B7%D9%8A%D8%B4-%D8%A7%D9%84%D8%AD%D8%A8%D8%B1/</guid>
       <description></description>
       
     </item>
@@ -1030,11 +990,51 @@
     </item>
     
     <item>
-      <title>ملفات تعريف الارتباط</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7/</link>
+      <title>معتمد ISO</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B9%D8%AA%D9%85%D8%AF-iso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B9%D8%AA%D9%85%D8%AF-iso/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>معلومات الشركة</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مكاتب عالمية</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%83%D8%A7%D8%AA%D8%A8-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%83%D8%A7%D8%AA%D8%A8-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مكتب مستدام</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%83%D8%AA%D8%A8-%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>مواد متميزة</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AA%D9%85%D9%8A%D8%B2%D8%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ar/tags/%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AA%D9%85%D9%8A%D8%B2%D8%A9/</guid>
       <description></description>
       
     </item>
