@@ -10,16 +10,6 @@
     <atom:link href="https://mis3085.github.io/docs-cartridgeweb/hi/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>404</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/404/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/404/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>APIs</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/apis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,11 +20,41 @@
     </item>
     
     <item>
+      <title>Brother</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/brother/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/brother/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Canon</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/canon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/canon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Cartridge Web</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/cartridge-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/cartridge-web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Epson</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/epson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/epson/</guid>
       <description></description>
       
     </item>
@@ -60,11 +80,61 @@
     </item>
     
     <item>
+      <title>HP</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/hp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/hp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IP अनुपालन</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/ip-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/ip-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>ISO प्रमाणन</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/iso-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/iso-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Konica Minolta</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/konica-minolta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/konica-minolta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kyocera Mita</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/kyocera-mita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/kyocera-mita/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lexmark</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/lexmark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/lexmark/</guid>
       <description></description>
       
     </item>
@@ -80,6 +150,46 @@
     </item>
     
     <item>
+      <title>OEM संगत</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/oem-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/oem-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OEM-समकक्ष</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/oem-%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/oem-%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OKI</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/oki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/oki/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Olivetti</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/olivetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/olivetti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>REACH</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/reach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -90,11 +200,61 @@
     </item>
     
     <item>
+      <title>Ricoh</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/ricoh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/ricoh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>RoHS</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/rohs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/rohs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Samsung</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/samsung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/samsung/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Utax</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/utax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/utax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Xerox</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/xerox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/xerox/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>अधिग्रहण</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%A3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%A3/</guid>
       <description></description>
       
     </item>
@@ -120,6 +280,16 @@
     </item>
     
     <item>
+      <title>इमेजिंग सप्लाईज</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%88%E0%A4%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%88%E0%A4%9C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>इमेजिंग सप्लाईज़</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%87%E0%A4%AE%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%88%E0%A4%9C%E0%A4%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -130,11 +300,21 @@
     </item>
     
     <item>
-      <title>उत्पाद लॉन्च</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%B2%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9A/</link>
+      <title>उत्पाद मार्गदर्शिका</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%B2%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9A/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>उत्पाद विकास</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</guid>
       <description></description>
       
     </item>
@@ -145,26 +325,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>एंटरप्राइज प्रोजेक्ट प्रबंधन</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%8F%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%8F%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%9C-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>एनालिटिक्स</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%8F%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%8F%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8/</guid>
       <description></description>
       
     </item>
@@ -190,6 +350,26 @@
     </item>
     
     <item>
+      <title>कार्यालय की आपूर्ति</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%95%E0%A5%80-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%95%E0%A5%80-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>कुकीज़</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%E0%A4%9C%E0%A4%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%95%E0%A5%81%E0%A4%95%E0%A5%80%E0%A4%9C%E0%A4%BC/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>कॉर्पोरेट प्रोफ़ाइल</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -205,6 +385,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>गुणवत्ता आश्वासन</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -230,11 +420,11 @@
     </item>
     
     <item>
-      <title>ग्राहक संतुष्टि</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF/</link>
+      <title>गोपनीयता</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE/</guid>
       <description></description>
       
     </item>
@@ -260,6 +450,26 @@
     </item>
     
     <item>
+      <title>तकनीकी लाभ</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%80-%E0%A4%B2%E0%A4%BE%E0%A4%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%80-%E0%A4%B2%E0%A4%BE%E0%A4%AD/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>तकनीकी समर्थन</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>ताइवान</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A4%BE%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -270,11 +480,21 @@
     </item>
     
     <item>
-      <title>तृतीय-पक्ष सेवाएं</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%82/</link>
+      <title>ताइवान निर्माण</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A4%BE%E0%A4%A8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%82/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A4%BE%E0%A4%A8-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>तृतीय-पक्ष सेवाएँ</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%81/</guid>
       <description></description>
       
     </item>
@@ -300,26 +520,6 @@
     </item>
     
     <item>
-      <title>नहीं मिला</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%BE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%BE/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>निरंतर सुधार</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%82%E0%A4%A4%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%82%E0%A4%A4%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE%E0%A4%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>निर्माण</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -330,11 +530,11 @@
     </item>
     
     <item>
-      <title>नीदरलैंड</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A5%80%E0%A4%A6%E0%A4%B0%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1/</link>
+      <title>परीक्षण</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%A8%E0%A5%80%E0%A4%A6%E0%A4%B0%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3/</guid>
       <description></description>
       
     </item>
@@ -370,21 +570,61 @@
     </item>
     
     <item>
-      <title>पुनर्चक्रण</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%A3/</link>
+      <title>पर्यावरण-अनुकूल प्रिंटिंग</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%A3/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>पुनर्निर्देशन</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%A8/</link>
+      <title>पर्यावरण-हितैषी</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%88%E0%A4%B7%E0%A5%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%A8/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%88%E0%A4%B7%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पर्यावरणीय जिम्मेदारी</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3%E0%A5%80%E0%A4%AF-%E0%A4%9C%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पुनर्नवीनीकरण सामग्री</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पुनर्नवीनीकृत सामग्री</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पुनर्निर्मित</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A4/</guid>
       <description></description>
       
     </item>
@@ -395,6 +635,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>पुनर्निर्मित टोनर कार्ट्रिज</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A4%B0-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A4%B0-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C/</guid>
       <description></description>
       
     </item>
@@ -420,11 +670,31 @@
     </item>
     
     <item>
-      <title>प्रमाणीकरण</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3/</link>
+      <title>प्रिंट गुणवत्ता</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F-%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F-%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>प्रिंटर आपूर्ति</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>प्रिंटर उपभोग्य सामग्री</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%89%E0%A4%AA%E0%A4%AD%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%89%E0%A4%AA%E0%A4%AD%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</guid>
       <description></description>
       
     </item>
@@ -440,6 +710,26 @@
     </item>
     
     <item>
+      <title>प्रिंटर मॉडल</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AE%E0%A5%89%E0%A4%A1%E0%A4%B2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AE%E0%A5%89%E0%A4%A1%E0%A4%B2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>प्रिंटर सप्लाई</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B8%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%88/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>प्रिंटर सामग्री</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -450,21 +740,21 @@
     </item>
     
     <item>
-      <title>प्रिंटिंग सामग्री</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</link>
+      <title>प्रिंटिंग</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>बौद्धिक संपदा</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AC%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%A6%E0%A4%BE/</link>
+      <title>प्रिंटिंग समाधान</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AC%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%A6%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%A8/</guid>
       <description></description>
       
     </item>
@@ -490,6 +780,56 @@
     </item>
     
     <item>
+      <title>यूरोप</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AF%E0%A5%82%E0%A4%B0%E0%A5%8B%E0%A4%AA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%AF%E0%A5%82%E0%A4%B0%E0%A5%8B%E0%A4%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>लागत दक्षता</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%A4-%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%A4-%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>लागत बचत</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%A4-%E0%A4%AC%E0%A4%9A%E0%A4%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%A4-%E0%A4%AC%E0%A4%9A%E0%A4%A4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>लेजर प्रिंटर</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>वारंटी</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%9F%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%9F%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>विज्ञापन</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%AA%E0%A4%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -500,11 +840,11 @@
     </item>
     
     <item>
-      <title>वितरक लाभ</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%95-%E0%A4%B2%E0%A4%BE%E0%A4%AD/</link>
+      <title>वितरक</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%95-%E0%A4%B2%E0%A4%BE%E0%A4%AD/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%95/</guid>
       <description></description>
       
     </item>
@@ -540,11 +880,41 @@
     </item>
     
     <item>
-      <title>वैश्विक कार्यालय</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF/</link>
+      <title>वैकल्पिक टोनर</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%95-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%95-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A4%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>वैश्विक</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%88%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>व्यवसाय</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>व्यवसाय प्रिंटिंग</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
       <description></description>
       
     </item>
@@ -560,11 +930,31 @@
     </item>
     
     <item>
-      <title>व्यवसाय साझेदारी</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <title>व्यावसायिक आपूर्ति</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF-%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%86%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>व्यावसायिक प्रिंटिंग</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>संगत</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4/</guid>
       <description></description>
       
     </item>
@@ -580,11 +970,11 @@
     </item>
     
     <item>
-      <title>संचालन उत्कृष्टता</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE/</link>
+      <title>संगत टोनर</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A4%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4-%E0%A4%9F%E0%A5%8B%E0%A4%A8%E0%A4%B0/</guid>
       <description></description>
       
     </item>
@@ -595,6 +985,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>सतत पैकेजिंग</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%A4%E0%A4%A4-%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%87%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%97/</guid>
       <description></description>
       
     </item>
@@ -620,11 +1020,41 @@
     </item>
     
     <item>
-      <title>सर्कुलर अर्थव्यवस्था</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%B0-%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE/</link>
+      <title>सर्कुलर इकोनॉमी</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%B0-%E0%A4%87%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%89%E0%A4%AE%E0%A5%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%B0-%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%81%E0%A4%B2%E0%A4%B0-%E0%A4%87%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%89%E0%A4%AE%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>सहायता</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>साझेदारी</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%9D%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0%E0%A5%80/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>सामाजिक नेटवर्क</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</guid>
       <description></description>
       
     </item>
@@ -635,16 +1065,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A5%8B%E0%A4%B6%E0%A4%B2-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>सोशल मीडिया</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A5%8B%E0%A4%B6%E0%A4%B2-%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/hi/tags/%E0%A4%B8%E0%A5%8B%E0%A4%B6%E0%A4%B2-%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE/</guid>
       <description></description>
       
     </item>
