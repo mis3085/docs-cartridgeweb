@@ -3,126 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/brother-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/brother-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/brother-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/epson-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/epson-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/epson-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
     <loc>https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/esg/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -183,423 +63,123 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/konica-minolta-compatible-toner-cartridges/</loc>
+    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/answers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/en/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/de/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/es/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/fr/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/it/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/pt/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/konica-minolta-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/konica-minolta-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ru/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ar/answers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-cartridgeweb/ja/answers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-cartridgeweb/ko/answers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/konica-minolta-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/hi/answers/"
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/kyocera-mita-compatible-toner-cartridges/</loc>
+    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/research-development/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/en/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/de/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/es/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/fr/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/it/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/pt/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/kyocera-mita-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/kyocera-mita-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/kyocera-mita-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ru/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/kyocera-mita-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/kyocera-mita-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/oki-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/oki-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ar/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/oki-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/oki-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/olivetti-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/olivetti-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ja/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/olivetti-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/olivetti-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ko/corporate-profile/research-development/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/olivetti-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/ricoh-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/ricoh-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/ricoh-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/utax-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/utax-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/utax-compatible-toner-cartridges/"
-    />
-  </url>
-  <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/xerox-compatible-toner-cartridges/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/products/xerox-compatible-toner-cartridges/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/products/xerox-compatible-toner-cartridges/"
+      href="https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/research-development/"
     />
   </url>
   <url>
@@ -660,6 +240,126 @@
       rel="alternate"
       hreflang="hi"
       href="https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/quality-policy/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-cartridgeweb/en/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-cartridgeweb/de/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-cartridgeweb/es/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-cartridgeweb/fr/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-cartridgeweb/it/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-cartridgeweb/pt/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-cartridgeweb/ru/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-cartridgeweb/ar/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-cartridgeweb/ja/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-cartridgeweb/ko/corporate-profile/quality-policy/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/quality-policy/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/privacy-statement/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-cartridgeweb/en/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-cartridgeweb/de/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-cartridgeweb/es/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-cartridgeweb/fr/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-cartridgeweb/it/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-cartridgeweb/pt/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-cartridgeweb/ru/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-cartridgeweb/ar/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-cartridgeweb/ja/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-cartridgeweb/ko/corporate-profile/privacy-statement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/privacy-statement/"
     />
   </url>
   <url>
@@ -903,66 +603,6 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/milestone/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/corporate-profile/milestone/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/milestone/"
-    />
-  </url>
-  <url>
     <loc>https://mis3085.github.io/docs-cartridgeweb/hi/products/remanufactured-toner-cartridges/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1020,6 +660,66 @@
       rel="alternate"
       hreflang="hi"
       href="https://mis3085.github.io/docs-cartridgeweb/hi/products/remanufactured-toner-cartridges/"
+    />
+  </url>
+  <url>
+    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/milestone/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://mis3085.github.io/docs-cartridgeweb/en/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://mis3085.github.io/docs-cartridgeweb/de/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://mis3085.github.io/docs-cartridgeweb/es/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://mis3085.github.io/docs-cartridgeweb/fr/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://mis3085.github.io/docs-cartridgeweb/it/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="https://mis3085.github.io/docs-cartridgeweb/pt/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://mis3085.github.io/docs-cartridgeweb/ru/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://mis3085.github.io/docs-cartridgeweb/ar/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://mis3085.github.io/docs-cartridgeweb/ja/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="https://mis3085.github.io/docs-cartridgeweb/ko/corporate-profile/milestone/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://mis3085.github.io/docs-cartridgeweb/hi/corporate-profile/milestone/"
     />
   </url>
   <url>
@@ -1083,63 +783,63 @@
     />
   </url>
   <url>
-    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/contact/</loc>
+    <loc>https://mis3085.github.io/docs-cartridgeweb/hi/answers/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://mis3085.github.io/docs-cartridgeweb/en/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/en/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://mis3085.github.io/docs-cartridgeweb/de/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/de/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://mis3085.github.io/docs-cartridgeweb/es/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/es/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://mis3085.github.io/docs-cartridgeweb/fr/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/fr/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://mis3085.github.io/docs-cartridgeweb/it/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/it/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="https://mis3085.github.io/docs-cartridgeweb/pt/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/pt/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://mis3085.github.io/docs-cartridgeweb/ru/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ru/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="https://mis3085.github.io/docs-cartridgeweb/ar/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ar/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://mis3085.github.io/docs-cartridgeweb/ja/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ja/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://mis3085.github.io/docs-cartridgeweb/ko/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/ko/answers/contact/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="https://mis3085.github.io/docs-cartridgeweb/hi/contact/"
+      href="https://mis3085.github.io/docs-cartridgeweb/hi/answers/contact/"
     />
   </url>
   <url>
