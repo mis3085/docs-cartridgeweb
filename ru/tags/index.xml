@@ -10,16 +10,6 @@
     <atom:link href="https://mis3085.github.io/docs-cartridgeweb/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>API</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/api/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Brother</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/brother/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,41 +40,11 @@
     </item>
     
     <item>
-      <title>Dell</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/dell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/dell/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Epson</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/epson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/epson/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ESG</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/esg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/esg/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/faq/</guid>
       <description></description>
       
     </item>
@@ -110,11 +70,11 @@
     </item>
     
     <item>
-      <title>ISO9001</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/iso9001/</link>
+      <title>ISO 9001</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/iso-9001/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/iso9001/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/iso-9001/</guid>
       <description></description>
       
     </item>
@@ -125,6 +85,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/konica-minolta/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kyocera</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/kyocera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/kyocera/</guid>
       <description></description>
       
     </item>
@@ -150,11 +120,51 @@
     </item>
     
     <item>
+      <title>ODM</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/odm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/odm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ODM-Услуги</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/odm-%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/odm-%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OKI</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/oki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/oki/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Olivetti</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/olivetti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/olivetti/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>REACH</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/reach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/reach/</guid>
       <description></description>
       
     </item>
@@ -170,6 +180,16 @@
     </item>
     
     <item>
+      <title>RoHS</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/rohs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/rohs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Samsung</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/samsung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -180,7 +200,7 @@
     </item>
     
     <item>
-      <title>UTAX</title>
+      <title>Utax</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/utax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -220,16 +240,6 @@
     </item>
     
     <item>
-      <title>Аналитика</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ассортимент Продукции</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -245,6 +255,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Бизнес-Решения</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
       <description></description>
       
     </item>
@@ -290,16 +310,6 @@
     </item>
     
     <item>
-      <title>Восстановленный Тонер</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Гарантия</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D1%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -310,21 +320,21 @@
     </item>
     
     <item>
-      <title>Глобальные Офисы</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%84%D0%B8%D1%81%D1%8B/</link>
+      <title>Глобальное Распространение</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%84%D0%B8%D1%81%D1%8B/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Глобальные Поставки</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/</link>
+      <title>Глобальные Офисы</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%84%D0%B8%D1%81%D1%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BE%D1%84%D0%B8%D1%81%D1%8B/</guid>
       <description></description>
       
     </item>
@@ -350,21 +360,11 @@
     </item>
     
     <item>
-      <title>Зеленая Печать</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C/</link>
+      <title>Запуски Продуктов</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Зеленые Продукты</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/</guid>
       <description></description>
       
     </item>
@@ -380,51 +380,11 @@
     </item>
     
     <item>
-      <title>Интеллектуальная Собственность</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Исследования И Разработки</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>История Компании</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Картриджи Для Лазерных Принтеров</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BB%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%B2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BB%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%B2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Картриджи Для Принтеров</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%B2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%B2/</guid>
       <description></description>
       
     </item>
@@ -440,26 +400,6 @@
     </item>
     
     <item>
-      <title>Каталог Продукции</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Каталоги</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Качество</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -470,31 +410,21 @@
     </item>
     
     <item>
+      <title>Контакты</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Контроль Качества</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Корпоративная Информация</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Корпоративное Развитие</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</guid>
       <description></description>
       
     </item>
@@ -520,11 +450,11 @@
     </item>
     
     <item>
-      <title>Многофункциональные Принтеры</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8B/</link>
+      <title>Мероприятия</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8B/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F/</guid>
       <description></description>
       
     </item>
@@ -540,41 +470,51 @@
     </item>
     
     <item>
-      <title>Навигация</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/</link>
+      <title>Награды</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Непрерывное Совершенствование</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <title>Новинки Продукции</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%81%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>НИОКР</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B8%D0%BE%D0%BA%D1%80/</link>
+      <title>Отраслевые Новости</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BE%D1%82%D1%80%D0%B0%D1%81%D0%BB%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%B8%D0%BE%D0%BA%D1%80/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BE%D1%82%D1%80%D0%B0%D1%81%D0%BB%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Новости</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <title>Офисное Оборудование</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Офисные Принадлежности</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BE%D1%84%D0%B8%D1%81%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
       <description></description>
       
     </item>
@@ -600,51 +540,11 @@
     </item>
     
     <item>
-      <title>Поддержка</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</link>
+      <title>Приобретение</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%B8%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Политика Качества</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Пользовательский Опыт</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%BE%D0%BF%D1%8B%D1%82/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Послепродажные Расходные Материалы</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Премиальные Материалы</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%B8%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
       
     </item>
@@ -660,11 +560,31 @@
     </item>
     
     <item>
-      <title>Производитель Тонер-Картриджей</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%82%D0%BE%D0%BD%D0%B5%D1%80-%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B5%D0%B9/</link>
+      <title>Производство</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D1%82%D0%BE%D0%BD%D0%B5%D1%80-%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B5%D0%B9/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Производство На Тайване</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0-%D1%82%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D0%B5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0-%D1%82%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D0%B5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Развитие Бизнеса</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0/</guid>
       <description></description>
       
     </item>
@@ -675,16 +595,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Разработка Продукции</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</guid>
       <description></description>
       
     </item>
@@ -710,51 +620,11 @@
     </item>
     
     <item>
-      <title>Реклама</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ресурсы</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Сервисы Сайта</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Сертификаты</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Сертификации</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/</guid>
       <description></description>
       
     </item>
@@ -770,21 +640,21 @@
     </item>
     
     <item>
-      <title>Соблюдение Нормативов</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BE%D0%B2/</link>
+      <title>Совместимость С OEM</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D1%81-oem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BE%D0%B2/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D1%81-oem/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Соблюдение Прав Интеллектуальной Собственности</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</link>
+      <title>Совместимые</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B1%D0%BB%D1%8E%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B5/</guid>
       <description></description>
       
     </item>
@@ -810,41 +680,11 @@
     </item>
     
     <item>
-      <title>Совместимые С OKI</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B5-%D1%81-oki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B5-%D1%81-oki/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Совместимый Тонер</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Совместимый Тонер HP</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80-hp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80-hp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Совместимый Тонер Samsung</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80-samsung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B5%D1%80-samsung/</guid>
       <description></description>
       
     </item>
@@ -860,6 +700,16 @@
     </item>
     
     <item>
+      <title>Солнечная Энергия</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Тайвань</title>
       <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -870,31 +720,11 @@
     </item>
     
     <item>
-      <title>Тестирование Продукции</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</link>
+      <title>Технические Преимущества</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%B8/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Техническая Поддержка</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Технологии</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0/</guid>
       <description></description>
       
     </item>
@@ -920,11 +750,31 @@
     </item>
     
     <item>
-      <title>Удовлетворенность Клиентов</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D0%B4%D0%BE%D0%B2%D0%BB%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</link>
+      <title>Упаковка</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D0%B4%D0%BE%D0%B2%D0%BB%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Управление Запасами</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%B0%D0%BC%D0%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%B0%D0%BC%D0%B8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Устойчивая Печать</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C/</guid>
       <description></description>
       
     </item>
@@ -950,11 +800,11 @@
     </item>
     
     <item>
-      <title>Устойчивый Офис</title>
-      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D1%8B%D0%B9-%D0%BE%D1%84%D0%B8%D1%81/</link>
+      <title>Устойчивость</title>
+      <link>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D1%8B%D0%B9-%D0%BE%D1%84%D0%B8%D1%81/</guid>
+      <guid>https://mis3085.github.io/docs-cartridgeweb/ru/tags/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C/</guid>
       <description></description>
       
     </item>
