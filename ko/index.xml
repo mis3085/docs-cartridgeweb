@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%9d%b8%ec%87%84-%ec%86%94%eb%a3%a8%ec%85%98%ec%97%90%ec%84%9c-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ec%84%b1-%ed%96%a5%ec%83%81&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%9d%b8%ec%87%84-%ec%86%94%eb%a3%a8%ec%85%98%ec%97%90%ec%84%9c-%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ec%84%b1-%ed%96%a5%ec%83%81&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,15 +40,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%ec%b2%98%eb%a6%ac-%eb%b0%8f-%eb%b3%b4%ed%98%b8-%eb%b0%a9%ec%b9%a8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%ec%b2%98%eb%a6%ac-%eb%b0%8f-%eb%b3%b4%ed%98%b8-%eb%b0%a9%ec%b9%a8&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Cartridge Web(&amp;ldquo;CW&amp;rdquo;)은 웹사이트(&lt;a
-  href=&#34;https://www.cartridgeweb.com&#34;
-    target=&#34;_blank&#34;
-  &gt;https://www.cartridgeweb.com&lt;/a&gt;
-)를 통해 수집된 개인정보를 책임감 있게 관리하는 데 최선을 다하고 있습니다. 본 문서는 개인정보의 수집, 이용 및 보호에 관한 당사의 방침을 명확히 하여 모든 이용자에게 투명성과 보안을 보장합니다.&lt;/p&gt;</description>
+&lt;p&gt;Cartridge Web(&amp;ldquo;CW&amp;rdquo;)은 웹사이트(&lt;a href=&#34;https://www.cartridgeweb.com&#34; target=&#34;_blank&#34;&gt;https://www.cartridgeweb.com&lt;/a&gt;)를 통해 수집된 개인정보를 책임감 있게 관리하는 데 최선을 다하고 있습니다. 본 문서는 개인정보의 수집, 이용 및 보호에 관한 당사의 방침을 명확히 하여 모든 이용자에게 투명성과 보안을 보장합니다.&lt;/p&gt;</description>
       
     </item>
     
@@ -62,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ec%84%b1%ea%b3%bc-%ed%98%81%ec%8b%a0%ec%97%90-%eb%8c%80%ed%95%9c-%ed%97%8c%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a7%80%ec%86%8d-%ea%b0%80%eb%8a%a5%ec%84%b1%ea%b3%bc-%ed%98%81%ec%8b%a0%ec%97%90-%eb%8c%80%ed%95%9c-%ed%97%8c%ec%8b%a0&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -81,7 +80,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%86%a0%eb%84%88-%ec%b9%b4%ed%8a%b8%eb%a6%ac%ec%a7%80-%ec%86%94%eb%a3%a8%ec%85%98%ec%9d%98-%ec%9a%b0%ec%88%98%ec%84%b1-%ec%b6%94%ec%a7%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%86%a0%eb%84%88-%ec%b9%b4%ed%8a%b8%eb%a6%ac%ec%a7%80-%ec%86%94%eb%a3%a8%ec%85%98%ec%9d%98-%ec%9a%b0%ec%88%98%ec%84%b1-%ec%b6%94%ec%a7%84&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -100,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#cartridge-web%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%98%eb%8a%94-%eb%8d%94-%ea%b0%95%eb%a0%a5%ed%95%9c-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%97%b0%ea%b2%b0-%ea%b5%ac%ec%b6%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#cartridge-web%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%98%eb%8a%94-%eb%8d%94-%ea%b0%95%eb%a0%a5%ed%95%9c-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%97%b0%ea%b2%b0-%ea%b5%ac%ec%b6%95&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -119,7 +120,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ed%9a%8c%ec%82%ac-%ec%97%ac%ec%a0%95-1978%eb%85%84%eb%b6%80%ed%84%b0-%ed%98%84%ec%9e%ac%ea%b9%8c%ec%a7%80-%ec%a3%bc%ec%9a%94-%ec%9d%b4%ec%a0%95%ed%91%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ed%9a%8c%ec%82%ac-%ec%97%ac%ec%a0%95-1978%eb%85%84%eb%b6%80%ed%84%b0-%ed%98%84%ec%9e%ac%ea%b9%8c%ec%a7%80-%ec%a3%bc%ec%9a%94-%ec%9d%b4%ec%a0%95%ed%91%9c&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -129,7 +131,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1978---1989&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1978---1989&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -145,7 +148,8 @@ General Plastic Industrial Co., Ltd. (GPI)가 회장 Jack Wang 씨에 의해 설
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1990---1999&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1990---1999&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -176,7 +180,8 @@ OPC 드럼 베이스를 개발하여 시장에 성공적으로 출시했으며, 
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#2000---2009&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2000---2009&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -209,7 +214,8 @@ Cartridge Web 브랜드를 더욱 발전시키며 지역 유통업체 및 도매
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#2010---%ed%98%84%ec%9e%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2010---%ed%98%84%ec%9e%ac&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -237,15 +243,7 @@ ISO 13485 인증을 획득했습니다.&lt;/li&gt;
 &lt;/div&gt;
 
 &lt;hr&gt;
-&lt;p&gt;자세한 내용은 &lt;a
-  href=&#34;https://www.gpi.com.tw/&#34;
-    target=&#34;_blank&#34;
-  &gt;GPI 공식 웹사이트&lt;/a&gt;
- 또는 &lt;a
-  href=&#34;https://www.cartridgeweb.com/en/contact&#34;
-    target=&#34;_blank&#34;
-  &gt;문의하기&lt;/a&gt;
-를 방문하십시오.&lt;/p&gt;</description>
+&lt;p&gt;자세한 내용은 &lt;a href=&#34;https://www.gpi.com.tw/&#34; target=&#34;_blank&#34;&gt;GPI 공식 웹사이트&lt;/a&gt; 또는 &lt;a href=&#34;https://www.cartridgeweb.com/en/contact&#34; target=&#34;_blank&#34;&gt;문의하기&lt;/a&gt;를 방문하십시오.&lt;/p&gt;</description>
       
     </item>
     
@@ -260,7 +258,8 @@ ISO 13485 인증을 획득했습니다.&lt;/li&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%ec%a0%9c%ed%92%88-%ed%92%88%ec%a7%88-%eb%b0%8f-%ea%b3%a0%ea%b0%9d-%eb%a7%8c%ec%a1%b1%ec%97%90-%eb%8c%80%ed%95%9c-%ed%83%81%ec%9b%94%ed%95%a8%ec%97%90-%eb%8c%80%ed%95%9c-%ec%95%bd%ec%86%8d&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%ec%a0%9c%ed%92%88-%ed%92%88%ec%a7%88-%eb%b0%8f-%ea%b3%a0%ea%b0%9d-%eb%a7%8c%ec%a1%b1%ec%97%90-%eb%8c%80%ed%95%9c-%ed%83%81%ec%9b%94%ed%95%a8%ec%97%90-%eb%8c%80%ed%95%9c-%ec%95%bd%ec%86%8d&#34; aria-label=&#34;앵커&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

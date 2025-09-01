@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e0%a4%aa%e0%a4%b0%e0%a4%9f%e0%a4%97-%e0%a4%b8%e0%a4%ae%e0%a4%a7%e0%a4%a8-%e0%a4%ae-%e0%a4%b8%e0%a4%a5%e0%a4%b0%e0%a4%a4-%e0%a4%95-%e0%a4%ac%e0%a4%a2%e0%a4%b5-%e0%a4%a6%e0%a4%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e0%a4%aa%e0%a4%b0%e0%a4%9f%e0%a4%97-%e0%a4%b8%e0%a4%ae%e0%a4%a7%e0%a4%a8-%e0%a4%ae-%e0%a4%b8%e0%a4%a5%e0%a4%b0%e0%a4%a4-%e0%a4%95-%e0%a4%ac%e0%a4%a2%e0%a4%b5-%e0%a4%a6%e0%a4%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e0%a4%9f%e0%a4%a8%e0%a4%b0-%e0%a4%95%e0%a4%b0%e0%a4%9f%e0%a4%b0%e0%a4%9c-%e0%a4%b8%e0%a4%ae%e0%a4%a7%e0%a4%a8-%e0%a4%ae-%e0%a4%89%e0%a4%a4%e0%a4%95%e0%a4%b7%e0%a4%9f%e0%a4%a4-%e0%a4%95-%e0%a4%a8%e0%a4%a4%e0%a4%a4%e0%a4%b5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e0%a4%9f%e0%a4%a8%e0%a4%b0-%e0%a4%95%e0%a4%b0%e0%a4%9f%e0%a4%b0%e0%a4%9c-%e0%a4%b8%e0%a4%ae%e0%a4%a7%e0%a4%a8-%e0%a4%ae-%e0%a4%89%e0%a4%a4%e0%a4%95%e0%a4%b7%e0%a4%9f%e0%a4%a4-%e0%a4%95-%e0%a4%a8%e0%a4%a4%e0%a4%a4%e0%a4%b5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e0%a4%89%e0%a4%a4%e0%a4%aa%e0%a4%a6-%e0%a4%97%e0%a4%a3%e0%a4%b5%e0%a4%a4%e0%a4%a4-%e0%a4%94%e0%a4%b0-%e0%a4%97%e0%a4%b0%e0%a4%b9%e0%a4%95-%e0%a4%b8%e0%a4%a4%e0%a4%b7%e0%a4%9f-%e0%a4%ae-%e0%a4%89%e0%a4%a4%e0%a4%95%e0%a4%b7%e0%a4%9f%e0%a4%a4-%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a4%a4-%e0%a4%aa%e0%a4%b0%e0%a4%a4%e0%a4%ac%e0%a4%a6%e0%a4%a7%e0%a4%a4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e0%a4%89%e0%a4%a4%e0%a4%aa%e0%a4%a6-%e0%a4%97%e0%a4%a3%e0%a4%b5%e0%a4%a4%e0%a4%a4-%e0%a4%94%e0%a4%b0-%e0%a4%97%e0%a4%b0%e0%a4%b9%e0%a4%95-%e0%a4%b8%e0%a4%a4%e0%a4%b7%e0%a4%9f-%e0%a4%ae-%e0%a4%89%e0%a4%a4%e0%a4%95%e0%a4%b7%e0%a4%9f%e0%a4%a4-%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a4%a4-%e0%a4%aa%e0%a4%b0%e0%a4%a4%e0%a4%ac%e0%a4%a6%e0%a4%a7%e0%a4%a4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -77,15 +80,12 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e0%a4%b5%e0%a4%af%e0%a4%95%e0%a4%a4%e0%a4%97%e0%a4%a4-%e0%a4%9c%e0%a4%a8%e0%a4%95%e0%a4%b0-%e0%a4%95-%e0%a4%b8%e0%a4%ad%e0%a4%b2%e0%a4%a8-%e0%a4%94%e0%a4%b0-%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%b7%e0%a4%a4-%e0%a4%b0%e0%a4%96%e0%a4%a8-%e0%a4%95-%e0%a4%a6%e0%a4%b7%e0%a4%9f%e0%a4%95%e0%a4%a3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e0%a4%b5%e0%a4%af%e0%a4%95%e0%a4%a4%e0%a4%97%e0%a4%a4-%e0%a4%9c%e0%a4%a8%e0%a4%95%e0%a4%b0-%e0%a4%95-%e0%a4%b8%e0%a4%ad%e0%a4%b2%e0%a4%a8-%e0%a4%94%e0%a4%b0-%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%b7%e0%a4%a4-%e0%a4%b0%e0%a4%96%e0%a4%a8-%e0%a4%95-%e0%a4%a6%e0%a4%b7%e0%a4%9f%e0%a4%95%e0%a4%a3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;Cartridge Web (&amp;ldquo;CW&amp;rdquo;) अपनी वेबसाइट (&lt;a
-  href=&#34;https://www.cartridgeweb.com&#34;
-    target=&#34;_blank&#34;
-  &gt;https://www.cartridgeweb.com&lt;/a&gt;
-) के माध्यम से एकत्रित व्यक्तिगत जानकारी के जिम्मेदार प्रबंधन के लिए प्रतिबद्ध है। यह दस्तावेज़ हमारे डेटा संग्रह, उपयोग, और सुरक्षा संबंधी प्रथाओं को रेखांकित करता है, जिससे सभी उपयोगकर्ताओं के लिए पारदर्शिता और सुरक्षा सुनिश्चित होती है।&lt;/p&gt;</description>
+&lt;p&gt;Cartridge Web (&amp;ldquo;CW&amp;rdquo;) अपनी वेबसाइट (&lt;a href=&#34;https://www.cartridgeweb.com&#34; target=&#34;_blank&#34;&gt;https://www.cartridgeweb.com&lt;/a&gt;) के माध्यम से एकत्रित व्यक्तिगत जानकारी के जिम्मेदार प्रबंधन के लिए प्रतिबद्ध है। यह दस्तावेज़ हमारे डेटा संग्रह, उपयोग, और सुरक्षा संबंधी प्रथाओं को रेखांकित करता है, जिससे सभी उपयोगकर्ताओं के लिए पारदर्शिता और सुरक्षा सुनिश्चित होती है।&lt;/p&gt;</description>
       
     </item>
     
@@ -100,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e0%a4%95%e0%a4%aa%e0%a4%a8-%e0%a4%af%e0%a4%a4%e0%a4%b0-1978-%e0%a4%b8-%e0%a4%b5%e0%a4%b0%e0%a4%a4%e0%a4%ae%e0%a4%a8-%e0%a4%a4%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%96-%e0%a4%ae%e0%a4%b2-%e0%a4%95-%e0%a4%aa%e0%a4%a4%e0%a4%a5%e0%a4%b0&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e0%a4%95%e0%a4%aa%e0%a4%a8-%e0%a4%af%e0%a4%a4%e0%a4%b0-1978-%e0%a4%b8-%e0%a4%b5%e0%a4%b0%e0%a4%a4%e0%a4%ae%e0%a4%a8-%e0%a4%a4%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%96-%e0%a4%ae%e0%a4%b2-%e0%a4%95-%e0%a4%aa%e0%a4%a4%e0%a4%a5%e0%a4%b0&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -110,7 +111,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1978---1989&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1978---1989&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -126,7 +128,8 @@ General Plastic Industrial Co., Ltd. (GPI) की स्थापना चे�
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1990---1999&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1990---1999&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -157,7 +160,8 @@ OPC ड्रम बेस विकसित किए और सफलता�
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#2000---2009&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2000---2009&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -190,7 +194,8 @@ Cartridge Web ब्रांड का और विकास किया ग�
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#2010---%e0%a4%b5%e0%a4%b0%e0%a4%a4%e0%a4%ae%e0%a4%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2010---%e0%a4%b5%e0%a4%b0%e0%a4%a4%e0%a4%ae%e0%a4%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -218,15 +223,7 @@ ISO 13485 प्रमाणन प्राप्त किया।&lt;/li&gt;
 &lt;/div&gt;
 
 &lt;hr&gt;
-&lt;p&gt;अधिक जानकारी के लिए, &lt;a
-  href=&#34;https://www.gpi.com.tw/&#34;
-    target=&#34;_blank&#34;
-  &gt;GPI की आधिकारिक वेबसाइट&lt;/a&gt;
- पर जाएं या &lt;a
-  href=&#34;https://www.cartridgeweb.com/en/contact&#34;
-    target=&#34;_blank&#34;
-  &gt;संपर्क करें&lt;/a&gt;
-।&lt;/p&gt;</description>
+&lt;p&gt;अधिक जानकारी के लिए, &lt;a href=&#34;https://www.gpi.com.tw/&#34; target=&#34;_blank&#34;&gt;GPI की आधिकारिक वेबसाइट&lt;/a&gt; पर जाएं या &lt;a href=&#34;https://www.cartridgeweb.com/en/contact&#34; target=&#34;_blank&#34;&gt;संपर्क करें&lt;/a&gt;।&lt;/p&gt;</description>
       
     </item>
     
@@ -241,7 +238,8 @@ ISO 13485 प्रमाणन प्राप्त किया।&lt;/li&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e0%a4%b8%e0%a4%a4%e0%a4%a4%e0%a4%a4-%e0%a4%94%e0%a4%b0-%e0%a4%a8%e0%a4%b5%e0%a4%9a%e0%a4%b0-%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a4%a4-%e0%a4%aa%e0%a4%b0%e0%a4%a4%e0%a4%ac%e0%a4%a6%e0%a4%a7%e0%a4%a4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e0%a4%b8%e0%a4%a4%e0%a4%a4%e0%a4%a4-%e0%a4%94%e0%a4%b0-%e0%a4%a8%e0%a4%b5%e0%a4%9a%e0%a4%b0-%e0%a4%95-%e0%a4%aa%e0%a4%b0%e0%a4%a4-%e0%a4%aa%e0%a4%b0%e0%a4%a4%e0%a4%ac%e0%a4%a6%e0%a4%a7%e0%a4%a4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -260,7 +258,8 @@ ISO 13485 प्रमाणन प्राप्त किया।&lt;/li&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#cartridge-web-%e0%a4%95-%e0%a4%b8%e0%a4%a5-%e0%a4%ae%e0%a4%9c%e0%a4%ac%e0%a4%a4-%e0%a4%b5%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a4%af%e0%a4%95-%e0%a4%b8%e0%a4%ac%e0%a4%a7-%e0%a4%ac%e0%a4%a8%e0%a4%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#cartridge-web-%e0%a4%95-%e0%a4%b8%e0%a4%a5-%e0%a4%ae%e0%a4%9c%e0%a4%ac%e0%a4%a4-%e0%a4%b5%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a4%af%e0%a4%95-%e0%a4%b8%e0%a4%ac%e0%a4%a7-%e0%a4%ac%e0%a4%a8%e0%a4%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
